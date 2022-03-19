@@ -1,2 +1,3 @@
-# handson-ml2
- O'Reilly Hands-On Machine Learning
+# Machine Learning Notebooks
+
+Exercises from the second edition of the O'Reilly book Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow.
